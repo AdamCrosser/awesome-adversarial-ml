@@ -8,3 +8,6 @@ https://stackdiary.com/chatgpts-training-data-can-be-exposed-via-a-divergence-at
 
 Extracting Training Data from ChatGPT \
 https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html
+
+OWASP Top 10 for LLM Applications \ 
+https://owasp.org/www-project-top-10-for-large-language-model-applications/
