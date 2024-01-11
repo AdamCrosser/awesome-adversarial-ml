@@ -14,3 +14,8 @@ https://owasp.org/www-project-top-10-for-large-language-model-applications/
 
 Model Confusion: Weaponizing ML Models for Red Teams and Bounty Hunters \
 https://5stars217.github.io/2023-08-08-red-teaming-with-ml-models/#injecting-malware-into-a-keras--tensorflow-model-architecture
+
+# Vulnerable LLMs
+
+Damn Vulnerable LLM Agent
+https://github.com/WithSecureLabs/damn-vulnerable-llm-agent
